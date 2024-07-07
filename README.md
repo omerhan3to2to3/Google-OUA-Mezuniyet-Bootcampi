@@ -1,11 +1,15 @@
 # Google-OUA-Mezuniyet-Bootcampi
 
 1. sprint değerlendirme:
+
    ● Takım İsmi
 	- Parker
 
   ● Takım Rolleri
-  - Muhammed Kaha product owner - Ömerhan Sancak - scrum master  - Selin Sanem Adsoy developer - Mustafa Dimlioğlu developer	
+  - Muhammed Kaha product owner 
+  - Ömerhan Sancak - scrum master  
+  - Selin Sanem Adsoy - developer 
+  - Mustafa Dimlioğlu - developer	
 
   ● Ürün İsmi
   	- Parkly
@@ -15,6 +19,7 @@
 
   ● Ürün Özellikleri
   	- Haritada otoparkların yerini göstermesi
+
   	- Otoparklardaki boş yer sayısını göstermesi
 
   ● Hedef Kitle
