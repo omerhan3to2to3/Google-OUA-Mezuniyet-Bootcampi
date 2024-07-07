@@ -1,29 +1,38 @@
 # Google-OUA-Mezuniyet-Bootcampi
 
-1. sprint değerlendirme:
+## 1. sprint değerlendirme:
 
-   ● Takım İsmi
-	- Parker
+  ### Takım İsmi
 
-  ● Takım Rolleri
-  - Muhammed Kaha product owner 
-  - Ömerhan Sancak - scrum master  
-  - Selin Sanem Adsoy - developer 
-  - Mustafa Dimlioğlu - developer	
+   - parker
 
-  ● Ürün İsmi
-  	- Parkly
+  ### Takım Rolleri
 
-  ● Ürün Açıklaması
-  	- Araçların park yeri problemini çözmek için otoparklara kurulacak görüntü işleme ve lazer sistemleri ile boş yerleri tespit ederek uygulama üzerinden bu yerleri bulmalarını sağlayacak bir mobil uygulama
+   - Muhammed Kaha product owner 
 
-  ● Ürün Özellikleri
-  	- Haritada otoparkların yerini göstermesi
+   - Ömerhan Sancak - scrum master  
 
-  	- Otoparklardaki boş yer sayısını göstermesi
+   - Selin Sanem Adsoy - developer 
 
-  ● Hedef Kitle
-  	- Sürücü olan herkes
+   - Mustafa Dimlioğlu - developer	
 
-  ● Product Backlog
-  	- 1. Sprint sonuna kadar ürün fikrinin detaylarının oturması ve görev dağılımı üzerine çalışıldı. 
+  ### Ürün İsmi
+  - Parkly
+
+  ### Ürün Açıklaması
+
+  - Araçların park yeri problemini çözmek için otoparklara kurulacak görüntü işleme ve lazer sistemleri ile boş yerleri tespit ederek uygulama üzerinden bu yerleri bulmalarını sağlayacak bir mobil uygulama
+
+  ### Ürün Özellikleri
+
+  - Haritada otoparkların yerini göstermesi
+
+  - Otoparklardaki boş yer sayısını göstermesi
+
+  ### Hedef Kitle
+
+  - Sürücü olan herkes
+
+  ### Product Backlog
+
+  - '1'. Sprint sonuna kadar ürün fikrinin detaylarının oturması ve görev dağılımı üzerine çalışıldı. 
