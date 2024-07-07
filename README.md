@@ -8,9 +8,9 @@
 
   ### Takım Rolleri
 
-   - Muhammed Kaha product owner 
+   - Muhammed Kaha - product owner 
 
-   - Ömerhan Sancak - scrum master  
+   - Ömerhan Sancak - scrum master/designer  
 
    - Selin Sanem Adsoy - developer 
 
