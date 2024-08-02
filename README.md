@@ -14,7 +14,9 @@
 
    - Selin Sanem Adsoy - developer 
 
-   - Mustafa Dimlioğlu - developer	
+   - Mustafa Dimlioğlu - developer
+
+    - Metehan Karaboğa - developer
 
   ### Ürün İsmi
   - Parkly
